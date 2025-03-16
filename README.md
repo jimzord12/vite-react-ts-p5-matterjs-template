@@ -17,9 +17,4 @@ and many more...
 
 # Getting Started
 
-1. **Clone the repository**: Use the following command to clone the repository to your local machine:
-
-   ```bash
-   git clone
-
-   ```
+1. **Use Template from Github**: [GitHub Link](https://github.com/jimzord12/vite-react-ts-p5-matterjs-template)
